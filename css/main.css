@@ -1,0 +1,122 @@
+*{
+    margin:  0;
+    padding: 0;
+
+}
+h1{
+    color: rgb(204, 0, 255);
+    text-align: center;
+    font-size: 50px;
+    width: 100%;
+}
+p{
+    color: rgb(255, 0, 140);
+    font-size: 30px;
+}
+.PHOTO123{
+    background-color: rgb(0, 255, 242);
+    width: 70%;
+    margin:auto; 
+    padding: 50px;
+    
+}
+
+    body{
+        background-color: rgb(255, 0, 157);
+    }
+.Photo{
+    background-color: rgb(98, 0, 255);
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+}
+.m1{
+    background-image: url(../img/img1.jpeg);
+    background-size: cover;
+}
+.m2{
+    background-image: url(../img/img.2.png);
+    background-size: cover;
+}
+.m3{
+    background-image: url(../img/img.3.png);
+    background-size: cover;
+}
+.m4{
+    background-image: url(../img/img.4.jpg);
+    background-size: cover;
+}
+.m5{
+    background-image: url(../img/img.5.jpg);
+    background-size: cover;
+}
+.m6{background-image: url(../img/img.6.jpg);
+    background-size: cover;
+
+}
+.m7{background-image: url(../img/img.7.jpg);
+    background-size: cover;
+
+}
+.m8{background-image: url(../img/img.8.jpg);
+    background-size: cover;
+
+}
+.m9{
+    background-image: url(../img/img.9.jpg);
+    background-size: cover;
+
+}
+.PHOTO123{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    box-shadow: 0px 0px 10px 5px rgb(0, 0, 0);
+    font-family: 'Pacifico', cursive;
+}
+.Photo:hover{
+    box-shadow: rgb(0, 255, 255);
+}
+.m1:hover{
+    background-image: url(../img/img.10.jpg);
+    border: rgb(238, 255, 0);
+}
+.m2:hover{
+    background-image: url(../img/img.11.jpg);
+    border: rgb(3, 247, 255);
+}
+.m3:hover{
+    background-image: url(../img/img.14.jpg);
+    border: rgb(25, 0, 255);
+}
+.m4:hover{
+    background-image: url(../img/img.13.jpg);
+    border: rgb(0, 253, 198);
+}
+.m5:hover{
+    background-image: url(../img/img.15.jpg);
+    border: rgb(255, 0, 119);
+}
+.m6:hover{
+    background-image: url(../img/img.16.jpg);
+    border: cornsilk;
+}
+.m7:hover{
+    background-image: url(../img/img.17.jpg);
+    border: crimson;
+}
+.m8:hover{
+    background-image: url(../img/img.18.jpg);
+    border: rgb(0, 255, 85)37, 109);
+}
+.m9:hover{
+    background-image: url(../img/img.20.jpg);
+    border: rgb(197, 255, 255);
+}
+h1:hover{
+    color: rgb(255, 4, 234);
+    text-shadow: 15px 5px 2px  rgb(0, 0, 0);
+}
+p:hover{
+    color: rgb(238, 255, 0);
+}
